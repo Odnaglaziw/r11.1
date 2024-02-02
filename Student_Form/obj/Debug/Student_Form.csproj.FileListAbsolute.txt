@@ -1,0 +1,10 @@
+D:\Документы\VS projects\classes\Student_Form\bin\Debug\Student_Form.exe.config
+D:\Документы\VS projects\classes\Student_Form\bin\Debug\Student_Form.exe
+D:\Документы\VS projects\classes\Student_Form\bin\Debug\Student_Form.pdb
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.csproj.AssemblyReference.cache
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.Form1.resources
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.Properties.Resources.resources
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.csproj.GenerateResource.cache
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.exe
+D:\Документы\VS projects\classes\Student_Form\obj\Debug\Student_Form.pdb

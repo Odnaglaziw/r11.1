@@ -1,0 +1,10 @@
+D:\Документы\VS projects\classes\Time_Form\bin\Debug\Time_Form.exe.config
+D:\Документы\VS projects\classes\Time_Form\bin\Debug\Time_Form.exe
+D:\Документы\VS projects\classes\Time_Form\bin\Debug\Time_Form.pdb
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.csproj.AssemblyReference.cache
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.Form1.resources
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.Properties.Resources.resources
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.csproj.GenerateResource.cache
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.exe
+D:\Документы\VS projects\classes\Time_Form\obj\Debug\Time_Form.pdb
